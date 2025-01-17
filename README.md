@@ -14,7 +14,10 @@ The "main" function gets user input for a password and provides the feedback of 
 The password complexity checker employs a set of rules to evaluate the complexity of passwords. These rules include:
 <br>
 1) Presence of uppercase letters.
+<br>
 2) Presence of lowercase letters.
+<br>
 3) Presence of digits.
+<br>
 4) Presence of special characters.
 
